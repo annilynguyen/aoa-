@@ -1,7 +1,40 @@
-div.solid {border-style:solid;
+
+background-color{
+
+}
+div.solid {
+border-style:solid;
 border-color:rgb(243, 211, 222);}
 div.home-logo {
 text-align: center;
 font-family: 'allura';
 font-size:35px
+}
+div.border-pink{
+border-style: solid;
+border-color:rgb(243,211,222);
+}
+.adventure{
+    font-family:"Lucida Handwriting", "Courier New", monospace;
+}
+.center{
+    text-align: center;
+}
+
+.time{
+    font-family: "Copperplate",copper, fantasy;
+}
+
+.home {
+    font-size: 25px;
+}
+
+.travel{
+    font-family: "Copperplate",copper, fantasy;
+}
+
+
+.footer {
+    font-size: large;
+background-color:rgb(243, 210, 216); 
 }
