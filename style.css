@@ -6,6 +6,7 @@ text-align: center;
 font-family: 'allura';
 font-size:35px
 }
+/*navbar*/
 div.border-pink {
 border-style: solid;
 border-color:rgb(243,211,222);
@@ -29,7 +30,7 @@ border-color:rgb(243,211,222);
     font-family: "Copperplate",copper, fantasy;
 }
 
-
+/*footer*/
 .footer {
     font-size: large;
 background-color:rgb(243, 210, 216); 
@@ -62,6 +63,7 @@ font-family: 'Courier New', Courier, monospace;
 .taylor{
     font-size: 25px;
 }
+/*what we do page*/
 .pinkbutton{
     text-align: center;
     background-color: rgb(247, 182, 193);
