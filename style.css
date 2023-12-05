@@ -265,3 +265,89 @@ html, body {
 		bottom: 40px;
 	}
 } 
+
+
+
+
+
+body{
+	font-family: sans-serif;
+	text-align: center;
+	background-color: hotpink
+  }
+  
+  textarea{
+	border-radius: 5px;
+	height: 100px;
+	width: 50%;
+	min-width: 200px;
+	align:center;
+  }
+  
+  form {
+	display: block;
+	text-align: center;
+  }
+  
+  a {
+	color: black;
+	display: inline;
+	position: relative;
+	margin: auto;
+	text-align: center;
+	text-decoration: none;
+  }
+  
+  a:visited {
+	color: black;
+  }
+  
+  div {
+	margin: auto;
+  } 
+  
+  input{
+	margin: auto;
+	display: block;
+	width: 50%;
+	border-radius: 5px;
+	transition: all 1s ease;
+	overflow: hidden;
+	text-align: center;
+	min-width: 200px;
+  }
+  
+  .hidden{
+	display: none;
+  }
+  
+  button{
+	margin: auto;
+	padding: 0px;
+	display: block;
+	opacity: 1;
+	display: block;
+	max-width: 50%;
+	border-radius: 5px;
+	transition: all 1s ease;
+	overflow: hidden;
+	align-items: center;
+  }
+  
+  div{
+	display: block;
+  }
+  
+  #google{
+	clear: all;
+	left: 33vw;
+	margin: auto;
+  }
+  
+  #ics{
+	clear: all;
+	left: 66vw;
+	margin: auto;
+  }
+  
+  
