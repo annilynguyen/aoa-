@@ -15,6 +15,9 @@
 .center {
     text-align: center;
 }
+.left {
+	text-align: left;
+}
 
 /* Font Families */
 .copperplate {
@@ -81,7 +84,7 @@ html, body {
 }
 .carousel__caption p {
 	font: 400 9px "Roboto", sans-serif !important;
-	color: #c1c1c1 !important;
+	color: yellow !important;
 	text-align: left;
 }
 .carousel__caption a {
@@ -281,7 +284,6 @@ body{
 	height: 100px;
 	width: 50%;
 	min-width: 200px;
-	align:center;
   }
   
   form {
@@ -331,7 +333,6 @@ body{
 	border-radius: 5px;
 	transition: all 1s ease;
 	overflow: hidden;
-	align-items: center;
   }
   
   div{
@@ -351,3 +352,5 @@ body{
   }
   
   
+
+
