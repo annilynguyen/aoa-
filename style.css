@@ -2,11 +2,6 @@
 div {
 	color:#e4327c;
 }
-/*Background*/
-.row, .body, .container-fluid, .navbar-expand-lg,  {
-	background-color:#363C49;
-}
-
   /*Shooting Stars*/ 
   .star {
 	display:block;
